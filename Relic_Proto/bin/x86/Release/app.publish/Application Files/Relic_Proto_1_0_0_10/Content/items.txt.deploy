@@ -1,0 +1,161 @@
+3
+Blank, 0, 0, 0, 0, 0, 0
+Blunt Sword ,1, 0, 0, 10,10,10
+Rotten Staff ,0, 1, 0,20,20,20
+Old Dagger ,0, 0, 1,30,30,30
+Wooden Shield ,0, 1, 1,40,40,40
+Mace ,1, 0, 1,50,50,50
+Sword ,1, 1, 0,60,60,60
+Boots ,2, 0, 0,70,70,70
+Gloves ,0, 2, 0,80,80,80
+Wristguards ,0, 0, 2,90,90,90
+Dagger ,0, 1, 2,100,100,100
+Spear ,1, 0, 2,110,110,110
+Longbow ,1, 2, 0,120,120,120
+Shortbow ,0, 2, 1,130,130,130
+Rock ,2, 1, 0,140,140,140
+Stone ,2, 0, 1,150,150,150
+Horn ,3, 0, 0,160,160,160
+Helmet ,0, 3, 0,170,170,170
+Poison ,0, 0, 3,180,180,180
+Quiver ,0, 0, 4,190,190,190
+Soldeirs Helm ,0, 4, 0,200,200,200
+Metal Shield ,1, 0, 3,210,210,210
+Bottle Of Wine ,0, 3, 1,220,220,220
+Orc Blood ,1, 3, 0,230,230,230
+Orc Armour ,3, 1, 0,240,240,240
+Orc Axe ,3, 0, 1,250,250,250
+Woodchopper ,1, 1, 2,256,256,92
+Orc Skin ,0, 2, 2,256,256,93
+Orc Helmet ,2, 0, 2,256,256,94
+Elvish Longbow ,1, 2, 1,256,256,95
+Charm of Girren ,2, 2, 0,256,256,96
+Shoulderpads of Grief ,2, 1, 1,256,256,91
+Crystal ,0, 0, 5,256,256,93
+Chainmail Boots ,0, 5, 0,256,256,94
+Chainmail Greaves ,5, 0, 0,256,256,100
+Chainmail Legguards ,0, 1, 4,256,256,34
+Mithril ,1, 0, 4, 0, 0, 165
+Injury Kit ,1, 4, 0, 0, 0, 123
+Sickly Fish ,0, 4, 1, 0, 0, 145
+Elegant Hat ,4, 1, 0, 0, 0, 154
+Ironbark Staff ,4, 0, 1, 0, 0, 112
+Dragonbone Axe ,1, 1, 3, 0, 0, 176
+Battleaxe Of The Night ,0, 2, 3, 0, 0, 112
+Rotten Tooth Trinket ,2, 0, 3, 0, 0, 154
+Essence of Death ,1, 3, 1, 0, 0, 132
+Boots Of The Windrunner ,2, 3, 0, 0, 0, 178
+Light Of Erndil ,0, 3, 2, 0, 0, 198
+Dagger Of Shadow ,3, 1, 1, 0, 0, 104
+The Hoarder ,3, 2, 0, 0, 0, 194
+Elun Trinket ,3, 0, 2, 70, 70, 243
+Spellpower Staff ,1, 2, 2, 70, 70, 234
+Enchanters Staff ,2, 1, 2, 70, 70, 221
+Leather Shank ,2, 2, 1, 70, 70, 232
+Leather Helmet ,6, 0, 0, 70, 70, 232
+Leather Boots ,0, 6, 0, 70, 70, 212
+Leather Greaves ,0, 0, 6, 70, 70, 243
+Leather Vest ,5, 1, 0, 70, 70, 254
+Leather Belt ,5, 0, 1, 70, 70, 223
+Breastplate Of The North ,0, 5, 1, 70, 70, 212
+Lifestone ,1, 5, 0, 70, 70, 243
+Knight Commanders Helm ,0, 1, 5, 30, 30, 223
+Elvish Robes ,1, 0, 5, 30, 30, 243
+Janars Riding Boots ,4, 2, 0, 30, 30, 254
+Cloth Backpack ,4, 0, 2, 30, 30, 234
+The Burning Arrow ,4, 1, 1, 30, 30, 223
+Elvish Greaves ,2, 4, 0, 30, 30, 223
+Mace Of Thunder ,0, 4, 2, 30, 30, 223
+Mace Of Resistance ,1, 4, 1, 30, 30, 223
+Mace Of Wisdom ,2, 0, 4, 30, 30, 223
+Deathbringer ,0, 2, 4, 30, 30, 223
+Dragonbone Breastplate ,1, 1, 4, 30, 30, 223
+Dragonbone Greaves ,3, 3, 0, 30, 30, 223
+Dragonbone Sword ,3, 0, 3, 30, 30, 223
+Dragonbone Legguards ,3, 2, 1, 30, 30, 223
+Dragonbone Boots ,3, 1, 2, 30, 30, 223
+Dragonbone Helmet ,1, 3, 2, 123, 432, 222
+Castlebringer ,2, 3, 1, 123, 234, 222
+Hard Place ,2, 1, 3, 123, 123, 222
+Story Of Therodas ,1, 2, 3, 214, 234, 222
+Orc Quiver ,0, 3, 3, 123, 165, 222
+Orc Generals Deathbone ,2, 2, 2, 123, 176, 222
+Sword Of A Million Lives ,7, 0, 0, 123, 165, 222
+Dilema Of The Borrow Sword ,0, 7, 0, 123, 145, 222
+Wrath ,0, 0, 7, 123, 65, 222
+Sword Of A Possessed Soul ,6, 1, 0, 123, 42, 222
+Demonic Poison ,6, 0, 1, 123, 234, 222
+Dagger Of A Thousand Moons ,1, 6, 0, 123, 234, 222
+Mace Of The Widow ,1, 0, 6, 123, 234, 222
+Bishys Robes ,0, 6, 1, 123, 234, 222
+Nightmare Cap ,0, 1, 6, 123, 234, 222
+Light Of The Noble Star ,5, 2, 0, 123, 234, 222
+Staff of Kam Too ,5, 0, 2, 123, 234, 222
+Golden Compass ,5, 1, 1, 123, 234, 222
+Vial Of Strength ,2, 5, 0, 123, 234, 222
+The Sword Of A Breather ,0, 5, 2, 123, 234, 222
+The Heart Of Natolas ,1, 5, 1, 123, 234, 222
+Vial Of Wisdom ,2, 0, 5, 123, 234, 222
+Elm Bow ,0, 5, 2, 123, 234, 222
+Bayonetta ,1, 1, 5, 123, 234, 222
+Fan Chan Sword ,4, 3, 0, 123, 234, 222
+Amulet Of Strength ,4, 0, 3, 234, 196, 195
+Arcane Longsword ,4, 2, 1, 200, 100, 008
+Arrow Of Tears ,4, 1, 2, 065, 088, 211
+Fuzion Staff Of The Frenzy ,0, 4, 3, 116, 151, 001
+Goliath Mace ,3, 4, 0, 044, 077, 242
+Potion Of Healing ,1, 4, 2, 102, 055, 232
+Essence Of Life ,2, 4, 1, 110, 034, 223
+Torch Of The Undying Flame ,3, 0, 4, 099, 066, 133
+Crest Of Nature ,0, 3, 4, 144, 121, 099
+Golden Staff ,1, 2, 4, 077, 188, 173
+Golden Sword ,2, 1, 4, 022, 239, 211
+Golden Mace ,3, 3, 1, 052, 162, 105
+Golden Hammer ,3, 1, 3, 003, 132, 222
+Mystical Hammer ,1, 3, 3, 132, 228, 108
+The Forgotten Blade ,7, 0, 1, 013, 041, 086
+The Tizer ,7, 1, 0, 154, 102, 233
+Missu ,1, 7, 0, 001, 097, 074
+Trench Axe Of Ghosts ,0, 7, 1, 032, 231, 196
+Envy ,1, 0, 7, 111, 088, 067
+Old Rotten Boot ,0, 1, 7, 194, 056, 142
+Enchanted Leaf ,6, 2, 0, 141, 037, 005
+Spade ,6, 0, 2, 031, 131, 177
+Withdrawal Of Services ,6, 1, 1, 017, 244, 221
+The Widowmaker ,2, 6, 0, 025, 176, 182
+Desire ,0, 6, 2, 142, 098, 182
+Hope ,1, 6, 1, 162, 183, 111
+Sun Shatterer ,2, 0, 6, 097, 075, 192
+Javelin Of The Pelvis ,0, 2, 6, 142, 072, 182
+Korg Ancetors Spirit ,1, 1, 6, 029, 020, 102
+Glowing Orc Sword ,5, 3, 0, 052, 172, 193
+Necklace Of Gods ,5, 0, 3, 032, 102, 001
+Mithril ,5, 2, 1, 103, 099, 100
+The Spellward ,5, 1, 2, 077, 243, 210
+Korg Warpaint ,3, 5, 0, 210, 100, 008
+Thorn Of Dead Gods ,0, 5, 3, 111, 106, 002
+Staff Of The Great Wood ,1, 5, 2, 221, 234, 152
+Staff Of The Golden Forest ,2, 5, 1, 121, 188, 073
+Korg Staff ,3, 0, 5, 123, 194, 043
+Flag Of Herolan ,0, 3, 5, 069, 090, 120
+Starfang ,2, 1, 5, 040, 193, 080
+Meteor Shard ,1, 2, 5, 043, 177, 222
+The Crown Of Barren Cordor ,4, 4, 0, 111, 022, 155
+Map Of Therodas ,4, 0, 4, 009, 094, 099
+Map Of The Golden Forest ,0, 4, 4, 076, 243, 101
+Map Of The Great Wood ,4, 3, 1, 105, 190, 052
+Headband Of The Western Men ,4, 1, 3, 083, 123, 231
+Girrens Walking Stick ,4, 2, 2, 069, 048, 027
+Helm Of Herolan ,1, 4, 3, 063, 195, 053
+Jeweled Necklace ,3, 4, 1, 064, 243, 110
+Sevi's Wrath ,3, 4, 1, 075, 211, 199
+Elvish Rope ,2, 4, 2, 167, 066, 038
+Highlanders Cloak ,1, 3, 4, 085, 218, 063
+Korg Spear ,3, 1, 4, 086, 175, 098
+Denolaths Dagger ,2, 2, 4, 80, 80, 240
+Sword Of The Easter Egg ,3, 3, 2, 60, 60, 250
+The Bow Of Denolath ,3, 2, 3, 5, 128, 50
+The Horn Of Herolan ,2, 3, 3, 128, 50, 50
+Marlog The Blacks Claw ,8, 0, 0, 256, 70, 256
+Barren Cordors Shield ,0, 8, 0, 70, 256, 256
+Enchanted Bark Of The Golden Forest ,0, 0, 8, 256, 256, 70

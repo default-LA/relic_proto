@@ -1,0 +1,6 @@
+C:\Users\Adam\Desktop\relic\Relic_Proto\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\23\relic\Relic_Proto\Content\obj\x86\Release\ResolveAssemblyReference.cache
+F:\relic\Relic_Proto\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Lloyd\Desktop\relic\Relic_Proto\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\New folder\relic\Relic_Proto\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\Content\obj\x86\Release\ResolveAssemblyReference.cache

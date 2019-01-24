@@ -1,0 +1,218 @@
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\default.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.exe
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.pdb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.exe
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.pdb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.application
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.application
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\tileset.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hud.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hud2.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hudfont.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\lilman.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\smallertileset.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\lolmob.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\allysprite.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\elfsprite.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\mobsprite.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\menubg.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\menubackground.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\sword.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hat.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\shield.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hudbg.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\mana.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\health.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\orcally.xnb
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\humanally.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\default.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hudfont.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hud.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hud2.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\lilman.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\tileset.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\smallertileset.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\lolmob.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\allysprite.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\elfsprite.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\mobsprite.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\menubg.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\sword.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hat.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\shield.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\menubackground.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hudbg.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\mana.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\health.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\orcally.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\humanally.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.exe.manifest
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.application
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.exe
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.pdb
+E:\Relic_Proto\Relic_Proto\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Relic_Proto\Relic_Proto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.exe.manifest
+E:\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.application
+E:\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.exe
+E:\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.pdb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\closedchest.xnb
+E:\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\openchest.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\default.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hudfont.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hud.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hud2.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\lilman.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\tileset.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\smallertileset.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\lolmob.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\allysprite.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\elfsprite.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\mobsprite.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\menubg.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\sword.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hat.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\shield.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\menubackground.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hudbg.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\mana.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\health.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\orcally.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\humanally.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\closedchest.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\openchest.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.exe.manifest
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.application
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.exe
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.pdb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.exe.manifest
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.application
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.exe
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.pdb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\slot1.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\slot2.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\slot3.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\slot4.xnb
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\testItem.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\default.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hudfont.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hud.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hud2.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\lilman.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\tileset.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\smallertileset.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\lolmob.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\allysprite.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\elfsprite.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\mobsprite.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\menubg.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\sword.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hat.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\shield.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\menubackground.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\hudbg.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\mana.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\health.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\orcally.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\humanally.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\closedchest.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\openchest.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\slot1.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\slot2.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\slot3.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\slot4.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Content\testItem.xnb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.exe.manifest
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.application
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.exe
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\bin\x86\Debug\Relic_Proto.pdb
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.exe.manifest
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.application
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.exe
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\obj\x86\Debug\Relic_Proto.pdb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\obj\x86\Debug\Relic_Proto.exe
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\default.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\hudfont.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\hud.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\hud2.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\lilman.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\tileset.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\smallertileset.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\lolmob.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\allysprite.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\elfsprite.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\mobsprite.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\menubg.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\sword.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\hat.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\shield.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\menubackground.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\hudbg.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\mana.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\health.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\orcally.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\humanally.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\closedchest.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\openchest.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\slot1.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\slot2.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\slot3.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\slot4.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Content\testItem.xnb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Relic_Proto.exe.manifest
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Relic_Proto.application
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Relic_Proto.exe
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\bin\x86\Debug\Relic_Proto.pdb
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\obj\x86\Debug\Relic_Proto.exe.manifest
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\obj\x86\Debug\Relic_Proto.application
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\obj\x86\Debug\Relic_Proto.pdb
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Debug\Relic_Proto.exe
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\default.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\hudfont.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\hud.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\hud2.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\lilman.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\tileset.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\smallertileset.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\lolmob.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\allysprite.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\elfsprite.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\mobsprite.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\menubg.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\sword.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\hat.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\shield.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\menubackground.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\hudbg.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\mana.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\health.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\orcally.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\humanally.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\closedchest.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\openchest.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\slot1.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\slot2.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\slot3.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\slot4.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\testItem.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Relic_Proto.exe.manifest
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Relic_Proto.application
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Relic_Proto.exe
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Relic_Proto.pdb
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Debug\Relic_Proto.exe.manifest
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Debug\Relic_Proto.application
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Debug\Relic_Proto.pdb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\humansheet.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Debug\Content\orcsheet.xnb

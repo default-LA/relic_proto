@@ -1,0 +1,7 @@
+C:\Users\Matt\Documents\Visual Studio 2008\Projects\Relic_Proto\Relic_Proto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Relic_Proto\Relic_Proto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Relic_Proto\Relic_Proto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lloyd\Desktop\Relic_Proto\Relic_Proto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\ITEMS!\Relic_Proto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\relic\Relic_Proto\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\CD\Game\Source Code\Relic_Proto\Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>default.spritefont</Source>
+      <Name>default</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\default.xnb</Output>
+      <Time>2010-03-10T19:38:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hudfont.spritefont</Source>
+      <Name>hudfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\hudfont.xnb</Output>
+      <Time>2010-03-13T16:18:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hud.png</Source>
+      <Name>hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\hud.xnb</Output>
+      <Time>2010-03-14T15:02:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hud2.png</Source>
+      <Name>hud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\hud2.xnb</Output>
+      <Time>2010-04-21T22:43:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lilman.png</Source>
+      <Name>lilman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\lilman.xnb</Output>
+      <Time>2010-03-10T19:15:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tileset.png</Source>
+      <Name>tileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\tileset.xnb</Output>
+      <Time>2010-02-23T02:46:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>smallertileset.png</Source>
+      <Name>smallertileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\smallertileset.xnb</Output>
+      <Time>2010-04-21T13:20:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lolmob.png</Source>
+      <Name>lolmob</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\lolmob.xnb</Output>
+      <Time>2010-03-04T20:48:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>allysprite.png</Source>
+      <Name>allysprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\allysprite.xnb</Output>
+      <Time>2010-03-07T16:39:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>elfsprite.png</Source>
+      <Name>elfsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\elfsprite.xnb</Output>
+      <Time>2010-04-21T17:19:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mobsprite.png</Source>
+      <Name>mobsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\mobsprite.xnb</Output>
+      <Time>2010-03-10T18:43:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>menubg.png</Source>
+      <Name>menubg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\menubg.xnb</Output>
+      <Time>2010-03-10T20:09:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sword.png</Source>
+      <Name>sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\sword.xnb</Output>
+      <Time>2010-03-10T21:11:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hat.png</Source>
+      <Name>hat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\hat.xnb</Output>
+      <Time>2010-03-10T21:11:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>shield.png</Source>
+      <Name>shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\shield.xnb</Output>
+      <Time>2010-03-10T21:11:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>menubackground.png</Source>
+      <Name>menubackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\menubackground.xnb</Output>
+      <Time>2010-03-10T23:19:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hudbg.png</Source>
+      <Name>hudbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\hudbg.xnb</Output>
+      <Time>2010-03-11T00:11:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>mana.png</Source>
+      <Name>mana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\mana.xnb</Output>
+      <Time>2010-03-11T00:04:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>orcally.png</Source>
+      <Name>orcally</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\orcally.xnb</Output>
+      <Time>2010-03-15T21:00:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>humanally.png</Source>
+      <Name>humanally</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\humanally.xnb</Output>
+      <Time>2010-04-22T13:57:44.0122156+01:00</Time>
+    </Item>
+    <Item>
+      <Source>closedchest.png</Source>
+      <Name>closedchest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\closedchest.xnb</Output>
+      <Time>2010-03-15T23:11:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>openchest.png</Source>
+      <Name>openchest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\openchest.xnb</Output>
+      <Time>2010-03-15T23:11:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>slot1.png</Source>
+      <Name>slot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot1.xnb</Output>
+      <Time>2010-03-15T23:54:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>slot2.png</Source>
+      <Name>slot2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot2.xnb</Output>
+      <Time>2010-03-15T23:54:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>slot3.png</Source>
+      <Name>slot3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot3.xnb</Output>
+      <Time>2010-03-15T23:54:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>slot4.png</Source>
+      <Name>slot4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot4.xnb</Output>
+      <Time>2010-03-15T23:54:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>testItem.png</Source>
+      <Name>testItem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\testItem.xnb</Output>
+      <Time>2010-03-16T00:25:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>humansheet.png</Source>
+      <Name>humansheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\humansheet.xnb</Output>
+      <Time>2010-04-16T12:06:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>orcsheet.png</Source>
+      <Name>orcsheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\orcsheet.xnb</Output>
+      <Time>2010-04-16T12:06:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>health.png</Source>
+      <Name>health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\health.xnb</Output>
+      <Time>2010-04-16T12:39:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>redTile.png</Source>
+      <Name>redTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\redTile.xnb</Output>
+      <Time>2010-04-19T18:07:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>elfallysheet.png</Source>
+      <Name>elfallysheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\elfallysheet.xnb</Output>
+      <Time>2010-04-21T21:12:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>humanallysheet.png</Source>
+      <Name>humanallysheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\humanallysheet.xnb</Output>
+      <Time>2010-04-21T22:03:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>aoeicon.jpg</Source>
+      <Name>aoeicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\aoeicon.xnb</Output>
+      <Time>2010-04-21T23:14:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bufficon.jpg</Source>
+      <Name>bufficon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\bufficon.xnb</Output>
+      <Time>2010-04-21T23:14:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>healicon.jpg</Source>
+      <Name>healicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\healicon.xnb</Output>
+      <Time>2010-04-21T23:14:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>spellicon.jpg</Source>
+      <Name>spellicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\spellicon.xnb</Output>
+      <Time>2010-04-21T23:14:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>swordicon.jpg</Source>
+      <Name>swordicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\swordicon.xnb</Output>
+      <Time>2010-04-21T23:14:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>orcallysheet.png</Source>
+      <Name>orcallysheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\orcallysheet.xnb</Output>
+      <Time>2010-04-21T22:02:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tent.png</Source>
+      <Name>tent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\tent.xnb</Output>
+      <Time>2010-04-20T14:50:04+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-02-17T16:22:26.4647761+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

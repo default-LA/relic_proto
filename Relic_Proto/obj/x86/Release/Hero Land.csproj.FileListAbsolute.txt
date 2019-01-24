@@ -1,0 +1,118 @@
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\default.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\hudfont.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\hud.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\hud2.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\lilman.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\tileset.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\smallertileset.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\lolmob.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\allysprite.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\elfsprite.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\mobsprite.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\menubg.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\sword.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\hat.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\shield.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\menubackground.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\hudbg.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\mana.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\orcally.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\humanally.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\closedchest.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\openchest.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot1.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot2.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot3.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot4.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\testItem.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\humansheet.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\orcsheet.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\health.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\redTile.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\elfallysheet.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\humanallysheet.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\aoeicon.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\bufficon.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\healicon.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\spellicon.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\swordicon.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\orcallysheet.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\tent.xnb
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\items.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\anything.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\grass.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\lloyd.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\mapListing.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\outlands.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\simple.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\test.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\waters.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Relic_Proto.exe.manifest
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Relic_Proto.application
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Relic_Proto.exe
+C:\Users\Adam\Desktop\relic\Relic_Proto\bin\x86\Release\Relic_Proto.pdb
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Release\Relic_Proto.exe.manifest
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Release\Relic_Proto.application
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Release\Relic_Proto.exe
+C:\Users\Adam\Desktop\relic\Relic_Proto\obj\x86\Release\Relic_Proto.pdb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\default.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\hudfont.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\hud.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\hud2.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\lilman.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\tileset.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\smallertileset.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\lolmob.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\allysprite.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\elfsprite.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\mobsprite.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\menubg.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\sword.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\hat.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\shield.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\menubackground.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\hudbg.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\mana.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\orcally.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\humanally.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\closedchest.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\openchest.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot1.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot2.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot3.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\slot4.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\testItem.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\humansheet.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\orcsheet.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\health.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\redTile.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\elfallysheet.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\humanallysheet.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\aoeicon.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\bufficon.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\healicon.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\spellicon.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\swordicon.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\orcallysheet.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\tent.xnb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\items.txt
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\anything.txt
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\grass.txt
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\lloyd.txt
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\mapListing.txt
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\outlands.txt
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\simple.txt
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\test.txt
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Content\maps\waters.txt
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Relic_Proto.exe.manifest
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Relic_Proto.application
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Relic_Proto.exe
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\bin\x86\Release\Relic_Proto.pdb
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\obj\x86\Release\Relic_Proto.exe.manifest
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\obj\x86\Release\Relic_Proto.application
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\obj\x86\Release\Relic_Proto.exe
+C:\Users\Adam\Desktop\Desktop!\New Desktop\relic\Relic_Proto\obj\x86\Release\Relic_Proto.pdb
