@@ -1,0 +1,28 @@
+Instructions
+
+1) Movement
+ W
+ASD
+
+W = Up
+A = Left
+S = Down
+D = Righ
+
+2) Spells
+123
+
+The spells are differnt for each Class. Spells require mana, the blue bar. 
+
+3) Items
+Click on a chest to open it. Shift+Click on a chest to pick up the item.
+
+Click on an item to see it's stats. Shift+Click on an item to drop it
+
+4)Allies
+Press space near a tent top buy allies. This requires resources, 3 per ally.
+
+Rescources are found in game and look like gems on the floor. To collect them simply stand on the tile. 
+
+5) Potions
+Q and E and the potion buttons and will heal the player, or give them mana. 
